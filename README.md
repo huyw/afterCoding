@@ -10,3 +10,4 @@
 * [淘宝](https://www.taobao.com/)
 * [汽车之家](https://www.autohome.com.cn/)
 * [奇葩买家秀](https://www.qipamaijia.com/)
+* [开源中国(动弹广场)](https://www.oschina.net/tweets)
